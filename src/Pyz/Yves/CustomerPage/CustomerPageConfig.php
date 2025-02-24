@@ -9,10 +9,19 @@ declare(strict_types = 1);
 
 namespace Pyz\Yves\CustomerPage;
 
+use Pyz\Shared\OrderName\OrderNameConfig;
 use SprykerShop\Yves\CustomerPage\CustomerPageConfig as SprykerCustomerPageConfig;
 
 class CustomerPageConfig extends SprykerCustomerPageConfig
 {
+    protected const ORDER_SEARCH_TYPES = [
+        'all',
+        'orderReference',
+        'itemName',
+        'itemSku',
+        OrderNameConfig::FILTER_FIELD_TYPE_ORDER_NAME,
+    ];
+
     /**
      * @var bool
      */
