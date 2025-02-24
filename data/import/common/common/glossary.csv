@@ -833,6 +833,8 @@ checkout.step.customer.title,Login,en_US
 checkout.step.customer.title,Anmelden,de_DE
 checkout.step.address.title,Address,en_US
 checkout.step.address.title,Adresse,de_DE
+checkout.step.order-name.title,Order Name,en_US
+checkout.step.order-name.title,Order Name,de_DE
 checkout.step.shipment.title,Shipping,en_US
 checkout.step.shipment.title,Versand,de_DE
 checkout.step.payment.title,Payment,en_US
@@ -3441,6 +3443,8 @@ customer.order.number_of_items,No. of Items,en_US
 customer.order.number_of_items,Anzahl der Artikel,de_DE
 customer.order.reference,Reference,en_US
 customer.order.reference,Referenz,de_DE
+customer.order.orderName,Order name,en_US
+customer.order.orderName,Order name,de_DE
 customer.order.email,Email,en_US
 customer.order.email,E-Mail-Adresse,de_DE
 customer.order.company_user,Company User,en_US
@@ -3453,6 +3457,8 @@ customer.order_history.search_type.itemName,Product Name,en_US
 customer.order_history.search_type.itemName,Produktname,de_DE
 customer.order_history.search_type.itemSku,Product SKU,en_US
 customer.order_history.search_type.itemSku,Produkt-SKU,de_DE
+customer.order_history.search_type.orderName,Order Name,en_US
+customer.order_history.search_type.orderName,Order Name,de_DE
 customer.order_history.search,Search,en_US
 customer.order_history.search,Suchen,de_DE
 customer.order_history.date_from,From,en_US
